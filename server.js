@@ -1,7 +1,9 @@
 /** Setup a standard Express server with Mongoose **/
 // Create the express variable
 const express = require('express');
-REQUIRE('dotenv').config();
+// const path = require('path');
+
+require('dotenv').config();
 
 // Import your mongoose connection
 // const mongoose = require('mongoose');
